@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "horizon": {
+      "type": "http",
+      "url": "https://api.usehorizon.ai/mcp"
+    }
+  }
+}
