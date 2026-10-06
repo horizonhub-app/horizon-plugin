@@ -1,7 +1,11 @@
 # Horizon plugin
 
-Ask Horizon's Superconsultant about your organization from your AI tools: processes, findings,
-discovery cycles and initiatives, answered from your own Horizon data.
+Horizon turns employee interviews into an analyzed picture of how your organization actually
+works: where time is lost, which processes stall, what teams raise repeatedly, and what the fixes
+are worth.
+
+This plugin brings that analysis into your AI assistant. Ask about your own company's interviews,
+insights, processes and initiatives, and get answers grounded in them rather than generic advice.
 
 Works in Cursor and Grok Bot (through the Cursor Marketplace) and in Grok Build.
 

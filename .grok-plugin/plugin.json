@@ -1,7 +1,7 @@
 {
   "name": "horizon",
   "version": "1.0.0",
-  "description": "Ask Horizon's Superconsultant about how work happens in your organization: processes, findings, discovery cycles and initiatives.",
+  "description": "Ask Horizon's Superconsultant about your own organization. Requires a Horizon account.",
   "author": {
     "name": "Horizon",
     "url": "https://usehorizon.ai"
